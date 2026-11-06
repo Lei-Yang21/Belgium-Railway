@@ -106,7 +106,7 @@ Docker and Docker Compose are required for the database.
 
 ## Data sources
 
-- **Punctuality** — Infrabel open data, monthly raw punctuality files
+- **Punctuality** — [Infrabel open data — monthly raw punctuality files](https://opendata.infrabel.be/explore/dataset/stiptheid-gegevens-maandelijksebestanden/information/)
   (2014-01 → 2024-12). Download links in
   [`data/reference/monthly_punctuality_urls.csv`](data/reference/monthly_punctuality_urls.csv).
 - **Weather** — [Meteostat](https://meteostat.net/) hourly observations at the
@@ -122,9 +122,9 @@ Docker and Docker Compose are required for the database.
 
 ## Authors
 
-- Hormat-Allah Saïd (s192779)
-- Lei Yang (s201670)
-- Houyon Manuel (s203802)
+- Hormat-Allah Saïd
+- Lei Yang
+- Houyon Manuel
 
 ## License
 
