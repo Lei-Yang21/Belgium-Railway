@@ -1,0 +1,818 @@
+ID,STATION,REGION
+0,,Unknown region
+1,Aachen Hbf,Unknown region
+2,Aalst,Vlaanderen
+3,Aalst-Kerrebroek,Vlaanderen
+4,Aalst-Oost,Vlaanderen
+5,Aalter,Vlaanderen
+6,Aarschot,Vlaanderen
+7,Aarsele,Vlaanderen
+8,Acren,Wallonie
+9,Aiseau,Wallonie
+10,Alken,Unknown region
+11,Amay,Wallonie
+12,Ampsin,Wallonie
+13,Amsterdam Centraal,Unknown region
+14,Andenne,Wallonie
+15,Andenne-Marchandises,Unknown region
+16,Andenne-Sas,Unknown region
+17,Anderlecht,Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest
+18,Angleur,Wallonie
+19,Ans,Wallonie
+20,Anseremme,Wallonie
+21,Antoing,Wallonie
+22,Antwerpen-Berchem,Vlaanderen
+23,Antwerpen-Centraal,Vlaanderen
+24,Antwerpen-D.S.-Alaska,Vlaanderen
+25,Antwerpen-D.S.-Angola,Unknown region
+26,Antwerpen-D.S.-Basf,Vlaanderen
+27,Antwerpen-D.S.-Berendrecht,Vlaanderen
+28,Antwerpen-D.S.-Combinant,Vlaanderen
+29,Antwerpen-D.S.-Groenland,Vlaanderen
+30,Antwerpen-D.S.-Ijsland,Vlaanderen
+31,Antwerpen-D.S.-Lillo,Vlaanderen
+32,Antwerpen-D.S.-Oorderen,Vlaanderen
+33,Antwerpen-D.S.-Petrol,Vlaanderen
+34,Antwerpen-D.S.-Wilmarsdonk,Vlaanderen
+35,Antwerpen-Dam,Vlaanderen
+36,Antwerpen-Ds-Noordzeeterminal,Unknown region
+37,Antwerpen-Haven,Vlaanderen
+38,Antwerpen-Kiel,Vlaanderen
+39,Antwerpen-Luchtbal,Vlaanderen
+40,Antwerpen-Noord-Blok M9-N9,Vlaanderen
+41,Antwerpen-Noord-Bundel A1,Vlaanderen
+42,Antwerpen-Noord-Bundel A2,Vlaanderen
+43,Antwerpen-Noord-Bundel B1,Vlaanderen
+44,Antwerpen-Noord-Bundel B2,Vlaanderen
+45,Antwerpen-Noord-Bundel B3,Vlaanderen
+46,Antwerpen-Noord-Bundel Bvrd,Vlaanderen
+47,Antwerpen-Noord-Bundel C1,Vlaanderen
+48,Antwerpen-Noord-Bundel C2,Vlaanderen
+49,Antwerpen-Noord-Bundel D,Vlaanderen
+50,Antwerpen-Noord-Bundel N,Vlaanderen
+51,Antwerpen-Noord-C.H.W.,Vlaanderen
+52,Antwerpen-Noord-Perron Chw,Vlaanderen
+53,Antwerpen-Noord-Perron Mainhub,Vlaanderen
+54,Antwerpen-Noord-Perron T.C.T.,Vlaanderen
+55,Antwerpen-Noord-T.W.,Vlaanderen
+56,Antwerpen-Noorderdokken,Vlaanderen
+57,Antwerpen-Oost,Vlaanderen
+58,Antwerpen-Schijnpoort-Bundel Q,Unknown region
+59,Antwerpen-Schijnpoort-Carwash,Unknown region
+60,Antwerpen-W.H.-B.Kalishoek,Vlaanderen
+61,Antwerpen-W.H.-B.Kallo,Vlaanderen
+62,Antwerpen-W.H.-B.Krommenhoek,Vlaanderen
+63,Antwerpen-W.H.-B.Liefkenshoek,Vlaanderen
+64,Antwerpen-W.H.-B.Zuid,Vlaanderen
+65,Antwerpen-Zuid,Vlaanderen
+66,Anzegem,Vlaanderen
+67,Appelterre,Vlaanderen
+68,Arcaden,Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest
+69,Archennes,Wallonie
+70,Arlon,Wallonie
+71,Arlon-P.E.D.,Unknown region
+72,Asse,Vlaanderen
+73,Assesse,Wallonie
+74,Ath,Unknown region
+75,Athus,Wallonie
+76,Athus-Faisceau A,Unknown region
+77,Aubange,Wallonie
+78,Aulnoye-Aymeries,Unknown region
+79,Auvelais,Wallonie
+80,Aye,Unknown region
+81,Aywaille,Wallonie
+82,Baasrode-Zuid,Vlaanderen
+83,Balegem-Dorp,Vlaanderen
+84,Balegem-Zuid,Vlaanderen
+85,Balen,Vlaanderen
+86,Balen-Werkplaatsen,Vlaanderen
+87,Bambrugge,Vlaanderen
+88,Barvaux,Wallonie
+89,Bas-Oha,Wallonie
+90,Basel Sbb,Unknown region
+91,Basse-Wavre,Wallonie
+92,Bassenge,Wallonie
+93,Baulers,Wallonie
+94,Beauraing,Wallonie
+95,Beernem,Vlaanderen
+96,Beersel,Vlaanderen
+97,Beervelde,Vlaanderen
+98,Begijnendijk,Vlaanderen
+99,Beignee,Wallonie
+100,Bellem,Vlaanderen
+101,Belsele,Vlaanderen
+102,Beringen,Vlaanderen
+103,Beringen-Mijn,Vlaanderen
+104,Berlaar,Vlaanderen
+105,Berlin Hbf,Unknown region
+106,Bertrix,Wallonie
+107,Berzee,Wallonie
+108,Beuzet,Wallonie
+109,Beveren(Waas),Vlaanderen
+110,Beverlo,Vlaanderen
+111,Bierges-Walibi,Wallonie
+112,Bierset-Awans,Wallonie
+113,Bilzen,Vlaanderen
+114,Bilzen-Wijkspoor,Unknown region
+115,Binche,Wallonie
+116,Bissegem,Vlaanderen
+117,Blankenberge,Vlaanderen
+118,Blanmont,Wallonie
+119,Blaton,Wallonie
+120,Bleret,Wallonie
+121,Bockstael,Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest
+122,Boechout,Vlaanderen
+123,Bois D'Ausse,Wallonie
+124,Bokrijk,Vlaanderen
+125,Bomal,Wallonie
+126,Booischot,Vlaanderen
+127,Boom,Vlaanderen
+128,Boondaal,Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest
+129,Boortmeerbeek,Vlaanderen
+130,Bordet,Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest
+131,Bornem,Vlaanderen
+132,Bosvoorde,Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest
+133,Bourg-Saint-Maurice,Unknown region
+134,Boussu,Wallonie
+135,Bouwel,Vlaanderen
+136,Bracquegnies,Wallonie
+137,Braine-Alliance,Wallonie
+138,Braine-Alliance-Cds824,Unknown region
+139,Braine-L'Alleud,Wallonie
+140,Braine-Le-Comte,Wallonie
+141,Bressoux,Wallonie
+142,Brugelette,Wallonie
+143,Brugge,Vlaanderen
+144,Brugge-Bundel A,Vlaanderen
+145,Brugge-Bundel B,Vlaanderen
+146,Brugge-Bundels U/V,Unknown region
+147,Brugge-Dijk,Vlaanderen
+148,Brugge-Sint-Pieters,Vlaanderen
+149,Brussel-Centraal,Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest
+150,Brussel-Congres,Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest
+151,Brussel-Kapellekerk,Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest
+152,Brussel-Klein-Eiland-Bundel F,Unknown region
+153,Brussel-Klein-Eiland-Carwash,Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest
+154,Brussel-Luxemburg,Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest
+155,Brussel-Nationaal-Luchthaven,Vlaanderen
+156,Brussel-Noord,Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest
+157,Brussel-Schuman,Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest
+158,Brussel-West,Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest
+159,Brussel-Zuid,Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest
+160,Brussel-Zuid-T.W.-Hst,Unknown region
+161,Brussels Airport - Zaventem,Vlaanderen
+162,Buda,Unknown region
+163,Buggenhout,Vlaanderen
+164,Buizingen,Vlaanderen
+165,Burst,Vlaanderen
+166,Callenelle,Wallonie
+167,Cambron-Casteau,Wallonie
+168,Carlsbourg,Wallonie
+169,Carnieres,Unknown region
+170,Ceroux-Mousty,Wallonie
+171,Chapelle-Dieu,Wallonie
+172,Chapois,Unknown region
+173,Charleroi-A.T.,Wallonie
+174,Charleroi-Central,Wallonie
+175,Charleroi-Faisceau A,Wallonie
+176,Charleroi-Ouest,Wallonie
+177,Charleroi-Sud,Wallonie
+178,Chastre,Wallonie
+179,Chateau-De-Seilles,Wallonie
+180,Chatelet,Unknown region
+181,Chatelet-Carwash,Unknown region
+182,Chatelet-Faisceau C,Unknown region
+183,Chatelet-Formation,Unknown region
+184,Chatelet-Gasoil,Unknown region
+185,Chaudfontaine,Wallonie
+186,Chenee,Unknown region
+187,Ciney,Wallonie
+188,Clabecq,Wallonie
+189,Clabecq-Marchandises,Unknown region
+190,Comblain-La-Tour,Wallonie
+191,Coo,Unknown region
+192,Couillet,Wallonie
+193,Cour-Sur-Heure,Wallonie
+194,Courcelles-Motte,Wallonie
+195,Courriere,Wallonie
+196,Court-Saint-Etienne,Wallonie
+197,Couvin,Wallonie
+198,Cuesmes-A.C.,Wallonie
+199,Dave-Saint-Martin,Wallonie
+200,De Hoek,Unknown region
+201,De Panne,Vlaanderen
+202,De Pinte,Vlaanderen
+203,Deinze,Vlaanderen
+204,Deinze-Wijksporen,Unknown region
+205,Delta,Unknown region
+206,Den Haag Hollands Spoor,Unknown region
+207,Denderleeuw,Vlaanderen
+208,Dendermonde,Vlaanderen
+209,Diegem,Vlaanderen
+210,Diepenbeek,Vlaanderen
+211,Diesdelle,Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest
+212,Diest,Vlaanderen
+213,Diksmuide,Vlaanderen
+214,Dilbeek,Vlaanderen
+215,Dinant,Wallonie
+216,Dolhain-Gileppe,Wallonie
+217,Dortmund Hbf,Unknown region
+218,Drongen,Vlaanderen
+219,Duffel,Vlaanderen
+220,Duinbergen,Vlaanderen
+221,Ecaussinnes,Wallonie
+222,Ede,Unknown region
+223,Edingen,Wallonie
+224,Eeklo,Vlaanderen
+225,Eichem,Vlaanderen
+226,Eijsden,Unknown region
+227,Eine,Vlaanderen
+228,Eke-Nazareth,Vlaanderen
+229,Ekeren,Vlaanderen
+230,Ekeren-Brug,Unknown region
+231,Engis,Wallonie
+232,Eppegem,Vlaanderen
+233,Erbisoeul,Wallonie
+234,Erembodegem,Vlaanderen
+235,Ernage,Wallonie
+236,Erpe-Mere,Vlaanderen
+237,Erps-Kwerps,Vlaanderen
+238,Erquelinnes,Wallonie
+239,Erquelinnes-Frontiere,Wallonie
+240,Erquelinnes-Village,Wallonie
+241,Esneux,Wallonie
+242,Essen,Unknown region
+243,Essen-Grens,Vlaanderen
+244,Essene-Lombeek,Vlaanderen
+245,Etterbeek,Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest
+246,Eupen,Wallonie
+247,Evere,Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest
+248,Evergem,Vlaanderen
+249,Evergem-Bundel Zandeken,Unknown region
+250,Ezemaal,Vlaanderen
+251,Familleureux,Wallonie
+252,Farciennes,Wallonie
+253,Faux,Unknown region
+254,Feluy-Zoning,Unknown region
+255,Fexhe-Le-Haut-Clocher,Wallonie
+256,Flawinne,Wallonie
+257,Flemalle-Annexe,Unknown region
+258,Flemalle-Grande,Wallonie
+259,Flemalle-Haute,Wallonie
+260,Fleurus,Wallonie
+261,Floree,Wallonie
+262,Floreffe,Wallonie
+263,Florenville,Wallonie
+264,Florival,Wallonie
+265,Fontaine-Valmont,Wallonie
+266,Forchies,Wallonie
+267,Forrieres,Wallonie
+268,Fraipont,Wallonie
+269,Frameries,Wallonie
+270,Franchimont,Wallonie
+271,Franiere,Wallonie
+272,Franiere-Garage,Unknown region
+273,Frankfurt(Main) Hbf,Unknown region
+274,Froyennes,Wallonie
+275,Galmaarden,Vlaanderen
+276,Gastuche,Wallonie
+277,Gavere-Asper,Vlaanderen
+278,Gedinne,Wallonie
+279,Gedinne-Marchandises,Unknown region
+280,Geel,Vlaanderen
+281,Gembloux,Wallonie
+282,Gendron-Celles,Wallonie
+283,Genk,Vlaanderen
+284,Genk-Goederen,Unknown region
+285,Genk-Zuid-R.O.-Haven,Unknown region
+286,Genly,Wallonie
+287,Gent-Dampoort,Vlaanderen
+288,Gent-Rodenhuize,Vlaanderen
+289,Gent-Sint-Pieters,Vlaanderen
+290,Gent-Sint-Pieters-Bundel B,Vlaanderen
+291,Gent-Sint-Pieters-Bundel C,Vlaanderen
+292,Gent-Sint-Pieters-Bundels,Unknown region
+293,Gent-Sint-Pieters-Bundels L/M,Unknown region
+294,Gent-Zeehaven,Vlaanderen
+295,Gent-Zeehaven-Groot Dok,Vlaanderen
+296,Gent-Zeehaven-Sifferdok,Vlaanderen
+297,Gent-Zeehaven-Sifferdok R.O.,Vlaanderen
+298,Gentbrugge,Vlaanderen
+299,Gentbrugge-Perron C.W.,Vlaanderen
+300,Genval,Wallonie
+301,Geraardsbergen,Vlaanderen
+302,Ghlin,Wallonie
+303,Glons,Wallonie
+304,Godarville,Wallonie
+305,Godinne,Wallonie
+306,Gontrode,Vlaanderen
+307,Gouvy,Wallonie
+308,Gouy-Lez-Pieton,Wallonie
+309,Graide,Wallonie
+310,Groenendaal,Vlaanderen
+311,Groenenhoek-Wijkbundel,Unknown region
+312,Groot-Bijgaarden,Vlaanderen
+313,Grupont,Wallonie
+314,Haacht,Vlaanderen
+315,Haacht-Wijkspoor,Unknown region
+316,Haaltert,Vlaanderen
+317,Habay,Wallonie
+318,Hainin,Wallonie
+319,Halanzy,Wallonie
+320,Halle,Unknown region
+321,Halle-Goederen,Unknown region
+322,Ham-Sur-Heure,Wallonie
+323,Ham-Sur-Sambre,Wallonie
+324,Hambos,Vlaanderen
+325,Hamoir,Wallonie
+326,Hamont,Vlaanderen
+327,Hansbeke,Vlaanderen
+328,Harchies,Wallonie
+329,Harelbeke,Vlaanderen
+330,Haren,Unknown region
+331,Haren-Zuid,Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest
+332,Hasselt,Vlaanderen
+333,Hasselt-Aflos L.35,Unknown region
+334,Hasselt-Aflos L.35/1,Unknown region
+335,Hasselt-Afwisseling,Vlaanderen
+336,Hasselt-Bundel E,Vlaanderen
+337,Hasselt-L.C.I.,Unknown region
+338,Hasselt-T.W.,Vlaanderen
+339,Hatrival,Wallonie
+340,Haute-Flone,Wallonie
+341,Haversin,Wallonie
+342,Haversin-Garage,Unknown region
+343,Havinnes,Wallonie
+344,Havre,Unknown region
+345,Heide,Unknown region
+346,Heist,Unknown region
+347,Heist-Op-Den-Berg,Vlaanderen
+348,Heizijde,Vlaanderen
+349,Hemiksem,Vlaanderen
+350,Hennuyeres,Wallonie
+351,Hennuyeres-Garage,Unknown region
+352,Herent,Vlaanderen
+353,Herentals,Vlaanderen
+354,Hergenrath,Wallonie
+355,Hermalle-Sous-Huy,Wallonie
+356,Herne,Unknown region
+357,Herseaux,Wallonie
+358,Herstal,Wallonie
+359,Herzele,Unknown region
+360,Heusden,Unknown region
+361,Hever,Unknown region
+362,Heverlee,Vlaanderen
+363,Hillegem,Vlaanderen
+364,Hoboken-Polder,Vlaanderen
+365,Hoeilaart,Vlaanderen
+366,Hofstade,Vlaanderen
+367,Holleken,Vlaanderen
+368,Hony,Wallonie
+369,Houraing,Wallonie
+370,Hourpes,Wallonie
+371,Houyet,Wallonie
+372,Hove,Unknown region
+373,Huizingen,Vlaanderen
+374,Huy,Wallonie
+375,Iddergem,Vlaanderen
+376,Idegem,Vlaanderen
+377,Ieper,Vlaanderen
+378,Ieper-Goederen,Unknown region
+379,Ingelmunster,Vlaanderen
+380,Izegem,Vlaanderen
+381,Izegem-Sas,Vlaanderen
+382,Izegem-Wijkspoor,Unknown region
+383,Jambes,Wallonie
+384,Jambes-Est,Wallonie
+385,Jamioulx,Wallonie
+386,Java,Unknown region
+387,Jemappes,Wallonie
+388,Jemelle,Wallonie
+389,Jemeppe-Froidmont,Wallonie
+390,Jemeppe-Sur-Meuse,Wallonie
+391,Jemeppe-Sur-Sambre,Wallonie
+392,Jemeppe-Sur-Sambre-Marchandise,Unknown region
+393,Jette,Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest
+394,Jurbise,Wallonie
+395,Juslenville,Wallonie
+396,Kalmthout,Vlaanderen
+397,Kapelle-Op-Den-Bos,Vlaanderen
+398,Kapellen,Vlaanderen
+399,Kapellen-Wijkspoor,Vlaanderen
+400,Kessel,Unknown region
+401,Kiewit,Vlaanderen
+402,Kijkuit,Unknown region
+403,Kinkempois-A.T.,Unknown region
+404,Kinkempois-A.T./D.E.,Unknown region
+405,Kinkempois-Formation,Wallonie
+406,Kinkempois-Reception,Unknown region
+407,Kinkempois-Relais,Unknown region
+408,Knokke,Vlaanderen
+409,Koksijde,Vlaanderen
+410,Koln Hbf,Unknown region
+411,Komen,Unknown region
+412,Kontich,Vlaanderen
+413,Kontich-Lint,Vlaanderen
+414,Kortemark,Vlaanderen
+415,Kortenberg,Vlaanderen
+416,Kortenberg-Goederen,Unknown region
+417,Kortrijk,Vlaanderen
+418,Kortrijk-Goederen,Unknown region
+419,Kortrijk-T.O.P.,Unknown region
+420,Kuregem-Doodspoor,Unknown region
+421,Kwatrecht,Vlaanderen
+422,La Hulpe,Wallonie
+423,La Louviere-Centre,Wallonie
+424,La Louviere-Gare Industrielle,Unknown region
+425,La Louviere-Sud,Wallonie
+426,La Roche(Brabant),Wallonie
+427,Labuissiere,Wallonie
+428,Landegem,Vlaanderen
+429,Landelies,Wallonie
+430,Landen,Unknown region
+431,Landskouter,Vlaanderen
+432,Langdorp,Vlaanderen
+433,Lauwe,Unknown region
+434,Le Campinaire,Wallonie
+435,Le Coucou-Base Lgv,Wallonie
+436,Lebbeke,Vlaanderen
+437,Lede,Vlaanderen
+438,Leignon,Wallonie
+439,Lelystad Centrum,Unknown region
+440,Leman,Unknown region
+441,Lembeek,Vlaanderen
+442,Lens,Unknown region
+443,Leopoldsburg,Vlaanderen
+444,Lessines,Wallonie
+445,Leuven,Vlaanderen
+446,Leuven-Bundel F,Unknown region
+447,Leuven-Bundel M,Unknown region
+448,Leuven-Bundel P,Unknown region
+449,Leuven-Bundel Q,Unknown region
+450,Leuze,Unknown region
+451,Leval,Unknown region
+452,Libramont,Wallonie
+453,Lichtervelde,Vlaanderen
+454,Liedekerke,Vlaanderen
+455,Liege-Carre,Wallonie
+456,Liege-Guillemins,Wallonie
+457,Liege-Guillemins-Faisceau,Unknown region
+458,Liege-Jonfosse,Wallonie
+459,Liege-Palais,Wallonie
+460,Liege-Saint-Lambert,Wallonie
+461,Lier,Vlaanderen
+462,Lierde,Vlaanderen
+463,Liers,Unknown region
+464,Liers-Faisceau,Unknown region
+465,Ligny,Wallonie
+466,Lille Flandres,Unknown region
+467,Lille-Europe,Unknown region
+468,Lillois,Wallonie
+469,Limal,Wallonie
+470,Linkebeek,Vlaanderen
+471,Lissewege,Vlaanderen
+472,Lobbes,Wallonie
+473,Lobbes-Garage,Unknown region
+474,Lodelinsart,Wallonie
+475,Lokeren,Vlaanderen
+476,Lokeren-Oost,Vlaanderen
+477,Lommel,Vlaanderen
+478,Londerzeel,Vlaanderen
+479,London-St-Pancras Intl,Unknown region
+480,Lonzee,Wallonie
+481,Lot,Unknown region
+482,Louvain-La-Neuve,Wallonie
+483,Louvain-La-Neuve-Universite,Wallonie
+484,Luchtbal-Wijkbundel,Vlaanderen
+485,Lustin,Wallonie
+486,Luttre,Wallonie
+487,Luxembourg,Unknown region
+488,Maastricht,Unknown region
+489,Machelen,Vlaanderen
+490,Maffle,Wallonie
+491,Malderen,Vlaanderen
+492,Manage,Wallonie
+493,Marbehan,Wallonie
+494,Marche-En-Famenne,Wallonie
+495,Marche-Les-Dames,Wallonie
+496,Marche-Les-Dames-Marchandises,Unknown region
+497,Marche-Lez-Ecaussinnes,Wallonie
+498,Marchienne-Au-Pont,Wallonie
+499,Marchienne-Zone,Wallonie
+500,Marcinelle,Wallonie
+501,Maria-Aalter,Vlaanderen
+502,Mariembourg,Wallonie
+503,Marloie,Wallonie
+504,Marne-La-Vallee-Chessy,Unknown region
+505,Marseille-Saint-Charles,Unknown region
+506,Masnuy-Saint-Pierre,Wallonie
+507,Maubeuge,Unknown region
+508,Maubray,Wallonie
+509,Mazy,Wallonie
+510,Mechelen,Vlaanderen
+511,Mechelen-C.W.,Vlaanderen
+512,Mechelen-Nekkerspoel,Vlaanderen
+513,Meiser,Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest
+514,Melkouwen,Vlaanderen
+515,Melle,Unknown region
+516,Melle-T.W.,Vlaanderen
+517,Melreux-Hotton,Wallonie
+518,Melsele,Vlaanderen
+519,Menen,Vlaanderen
+520,Merchtem,Vlaanderen
+521,Merelbeke,Vlaanderen
+522,Merelbeke-Centraal,Vlaanderen
+523,Merelbeke-Sas T.W.,Unknown region
+524,Merelbeke-T.W.,Unknown region
+525,Merode,Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest
+526,Mery,Unknown region
+527,Messancy,Wallonie
+528,Mevergnies-Attre,Wallonie
+529,Milmort,Wallonie
+530,Moensberg,Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest
+531,Moeskroen,Wallonie
+532,Mol,Unknown region
+533,Mollem,Vlaanderen
+534,Momalle,Wallonie
+535,Monceau-Chargement Gasoil,Unknown region
+536,Monceau-Formation,Unknown region
+537,Monceau-Reception,Unknown region
+538,Mons,Wallonie
+539,Mons-Aviation,Wallonie
+540,Mont-Saint-Guibert,Wallonie
+541,Montzen,Wallonie
+542,Montzen-Est,Unknown region
+543,Montzen-Installation Gasoil,Unknown region
+544,Moortsele,Vlaanderen
+545,Morlanwelz,Wallonie
+546,Mortsel,Vlaanderen
+547,Mortsel-Deurnesteenweg,Unknown region
+548,Mortsel-Liersesteenweg,Vlaanderen
+549,Mortsel-Oude God,Vlaanderen
+550,Moustier,Unknown region
+551,Moustier-Garage,Unknown region
+552,Mouterij,Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest
+553,Muizen,Vlaanderen
+554,Muizen-Goederen,Unknown region
+555,Munkzwalm,Vlaanderen
+556,Nameche,Wallonie
+557,Namur,Wallonie
+558,Namur-Herbatte,Wallonie
+559,Naninne,Wallonie
+560,Natoye,Wallonie
+561,Neerpelt,Vlaanderen
+562,Neerwinden,Vlaanderen
+563,Nessonvaux,Wallonie
+564,Neufchateau,Unknown region
+565,Neufvilles,Wallonie
+566,Neufvilles-Garage,Unknown region
+567,Niel,Vlaanderen
+568,Nieuwkerken-Waas,Vlaanderen
+569,Nijlen,Vlaanderen
+570,Nimy,Wallonie
+571,Ninove,Vlaanderen
+572,Ninove-Wijkspoor,Unknown region
+573,Nivelles,Wallonie
+574,Noorderkempen,Vlaanderen
+575,Nossegem,Vlaanderen
+576,Obaix-Buzet,Wallonie
+577,Obourg,Wallonie
+578,Obourg-Marchandises,Unknown region
+579,Okegem,Vlaanderen
+580,Olen,Vlaanderen
+581,Olen-Sas,Unknown region
+582,Olne,Wallonie
+583,Oostende,Vlaanderen
+584,Oostende-Bundel A,Vlaanderen
+585,Oostende-Bundel B,Vlaanderen
+586,Oostende-Perron T.O.P.,Unknown region
+587,Oostende-T.W.,Vlaanderen
+588,Oostende-Zeehaven,Unknown region
+589,Oostkamp,Vlaanderen
+590,Opwijk,Vlaanderen
+591,Ottignies,Wallonie
+592,Ottignies-Relais,Unknown region
+593,Oud-Heverlee,Vlaanderen
+594,Oudegem,Vlaanderen
+595,Oudenaarde,Vlaanderen
+596,Ougree,Wallonie
+597,Overpelt,Vlaanderen
+598,Paliseul,Wallonie
+599,Papignies,Wallonie
+600,Paris-Nord,Unknown region
+601,Pecrot,Wallonie
+602,Pepinster,Wallonie
+603,Pepinster-Cite,Wallonie
+604,Peruwelz,Wallonie
+605,Philippeville,Unknown region
+606,Philippeville-642,Wallonie
+607,Pieton,Unknown region
+608,Poix-Saint-Hubert,Wallonie
+609,Pont-A-Celles,Wallonie
+610,Pont-De-Seraing,Wallonie
+611,Poperinge,Vlaanderen
+612,Poulseur,Wallonie
+613,Praha Hl.N.,Unknown region
+614,Profondsart,Wallonie
+615,Pry,Unknown region
+616,Puurs,Vlaanderen
+617,Quaregnon,Wallonie
+618,Quevy,Wallonie
+619,Quevy-Frontiere,Unknown region
+620,Quievrain,Wallonie
+621,Rebaix,Wallonie
+622,Remicourt,Unknown region
+623,Rhisnes,Wallonie
+624,Rhisnes-Garage,Unknown region
+625,Rhisnes-Sas,Unknown region
+626,Rivage,Wallonie
+627,Rivage-Marchandises,Unknown region
+628,Rixensart,Wallonie
+629,Rochefort-Jemelle,Wallonie
+630,Rodange,Unknown region
+631,Roeselare,Vlaanderen
+632,Ronet,Wallonie
+633,Ronet-Formation,Unknown region
+634,Ronet-P.E.,Unknown region
+635,Ronse,Vlaanderen
+636,Roosendaal,Unknown region
+637,Rotterdam Centraal,Unknown region
+638,Roux,Wallonie
+639,Ruisbroek,Vlaanderen
+640,Ruisbroek-Bundel,Unknown region
+641,Ruisbroek-Sauvegarde,Vlaanderen
+642,Saint-Denis-Bovesse,Wallonie
+643,Saint-Ghislain,Wallonie
+644,Saint-Vincent-Bellefontaine,Wallonie
+645,Sart-Bernard,Wallonie
+646,Schaarbeek,Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest
+647,Schaarbeek-Bundel L,Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest
+648,Schaarbeek-Bundel M,Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest
+649,Schaarbeek-Bundel P,Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest
+650,Schaarbeek-Bundel V,Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest
+651,Schaarbeek-Carwash,Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest
+652,Schaarbeek-D.O.P.,Unknown region
+653,Schaarbeek-Doodspoor 814,Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest
+654,Schaarbeek-Groep G,Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest
+655,Schaarbeek-Groep R,Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest
+656,Schaarbeek-Josaphat,Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest
+657,Schaarbeek-L.C.I.,Unknown region
+658,Schaarbeek-Nos,Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest
+659,Schaarbeek-P.C.I.,Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest
+660,Schaarbeek-Perron P.C.I.,Unknown region
+661,Schaarbeek-Perron T.W./D.-Nos,Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest
+662,Schaarbeek-Perron T.W./D.-Zos,Unknown region
+663,Schaarbeek-Perron Vorming,Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest
+664,Schaarbeek-Sas K/C,Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest
+665,Schaarbeek-Spoor Lz,Unknown region
+666,Schaarbeek-T.W./D.,Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest
+667,Schaarbeek-T.W./E.,Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest
+668,Schaarbeek-Vorming,Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest
+669,Schaarbeek-Wasinstallatie,Unknown region
+670,Scheldewindeke,Vlaanderen
+671,Schelle,Vlaanderen
+672,Schellebelle,Vlaanderen
+673,Schendelbeke,Vlaanderen
+674,Schoonaarde,Vlaanderen
+675,Schulen,Vlaanderen
+676,Schulen-Sas,Unknown region
+677,Schulen-Wijkspoor,Unknown region
+678,Sclaigneaux,Wallonie
+679,Sclessin,Wallonie
+680,Seraing,Wallonie
+681,Serskamp,Vlaanderen
+682,Silly,Wallonie
+683,Simonis,Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest
+684,Sinaai,Vlaanderen
+685,Sint-Agatha-Berchem,Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest
+686,Sint-Denijs-Boekel,Vlaanderen
+687,Sint-Genesius-Rode,Vlaanderen
+688,Sint-Gillis(Dendermonde),Vlaanderen
+689,Sint-Job,Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest
+690,Sint-Joris-Weert,Vlaanderen
+691,Sint-Katelijne-Waver,Vlaanderen
+692,Sint-Mariaburg,Vlaanderen
+693,Sint-Martens-Bodegem,Vlaanderen
+694,Sint-Niklaas,Vlaanderen
+695,Sint-Niklaas-Oost,Vlaanderen
+696,Sint-Truiden,Vlaanderen
+697,Sleidinge,Vlaanderen
+698,Soignies,Wallonie
+699,Solre-Sur-Sambre,Wallonie
+700,Spa,Wallonie
+701,Spa-Geronstere,Wallonie
+702,Stabroek-Sporen 027/028,Unknown region
+703,Statte,Unknown region
+704,Stockem,Unknown region
+705,Stockem-A.T.,Wallonie
+706,Stockem-Faisceau A,Unknown region
+707,Stoumont,Wallonie
+708,Strasbourg-Ville,Unknown region
+709,Sy,Unknown region
+710,Tamines,Wallonie
+711,Temse,Vlaanderen
+712,Terhagen,Vlaanderen
+713,Ternat,Unknown region
+714,Tertre,Wallonie
+715,Testelt,Vlaanderen
+716,Theux,Wallonie
+717,Thieu,Wallonie
+718,Thuin,Wallonie
+719,Thulin,Wallonie
+720,Thurn En Taxis,Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest
+721,Tielen,Unknown region
+722,Tielt,Vlaanderen
+723,Tienen,Vlaanderen
+724,Tilff,Wallonie
+725,Tilleur,Wallonie
+726,Tilly,Unknown region
+727,Tilly-Garage,Unknown region
+728,Tollembeek,Vlaanderen
+729,Tongeren,Vlaanderen
+730,Torhout,Vlaanderen
+731,Tournai,Wallonie
+732,Trois-Ponts,Wallonie
+733,Troisvierges,Unknown region
+734,Trooz,Wallonie
+735,Tubize,Wallonie
+736,Turnhout,Vlaanderen
+737,Turnhout-Bundel,Unknown region
+738,Ukkel-Kalevoet,Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest
+739,Ukkel-Stalle,Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest
+740,Veltem,Vlaanderen
+741,Vertrijk,Vlaanderen
+742,Vertrijk-Wijkspoor,Unknown region
+743,Verviers-Central,Wallonie
+744,Verviers-Est,Wallonie
+745,Verviers-Palais,Wallonie
+746,Veurne,Vlaanderen
+747,Viane-Moerbeke,Vlaanderen
+748,Vichte,Vlaanderen
+749,Vielsalm,Wallonie
+750,Vijfhuizen,Unknown region
+751,Ville-Pommeroeul,Wallonie
+752,Villers-La-Ville,Unknown region
+753,Vilvoorde,Vlaanderen
+754,Virton,Wallonie
+755,Vise,Wallonie
+756,Vise-Haut,Wallonie
+757,Viville,Unknown region
+758,Voroux,Wallonie
+759,Voroux-Base Travaux Lgv,Unknown region
+760,Vorst-Bundel M,Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest
+761,Vorst-Carwash,Unknown region
+762,Vorst-Oost,Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest
+763,Vorst-Rijtuigen,Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest
+764,Vorst-Rijtuigen-Dienstperron,Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest
+765,Vorst-Rijtuigen-Perron Tw-Hst,Unknown region
+766,Vorst-Zuid,Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest
+767,Vorst-Zuid-Sporen 920/926,Unknown region
+768,Waarschoot,Vlaanderen
+769,Walcourt,Wallonie
+770,Waregem,Vlaanderen
+771,Waremme,Wallonie
+772,Waterloo,Unknown region
+773,Watermaal,Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest
+774,Wavre,Wallonie
+775,Weerde,Vlaanderen
+776,Welkenraedt,Wallonie
+777,Welle,Unknown region
+778,Wervik,Vlaanderen
+779,Wespelaar-Tildonk,Vlaanderen
+780,Wetteren,Vlaanderen
+781,Wevelgem,Vlaanderen
+782,Wezemaal,Vlaanderen
+783,Wichelen,Vlaanderen
+784,Wien Hbf,Unknown region
+785,Wijgmaal,Vlaanderen
+786,Wildert,Vlaanderen
+787,Willebroek,Vlaanderen
+788,Wolfstee,Vlaanderen
+789,Wondelgem,Vlaanderen
+790,Wondelgem-Bundel,Unknown region
+791,Yves-Gomezee,Wallonie
+792,Yvoir,Wallonie
+793,Zandbergen,Vlaanderen
+794,Zaventem,Vlaanderen
+795,Zedelgem,Vlaanderen
+796,Zedelgem-Goederen,Unknown region
+797,Zeebrugge-Bundel Pelikaan,Vlaanderen
+798,Zeebrugge-Bundel Ramskapelle,Vlaanderen
+799,Zeebrugge-Bundel Zwankendamme,Unknown region
+800,Zeebrugge-Dorp,Vlaanderen
+801,Zeebrugge-Strand,Vlaanderen
+802,Zeebrugge-Voorhaven-West,Vlaanderen
+803,Zeebrugge-Vorming,Vlaanderen
+804,Zele,Vlaanderen
+805,Zellik,Vlaanderen
+806,Zelzate,Vlaanderen
+807,Zelzate-Rieme,Vlaanderen
+808,Zichem,Vlaanderen
+809,Zingem,Vlaanderen
+810,Zolder,Vlaanderen
+811,Zolder-Kruissporen,Unknown region
+812,Zonhoven,Vlaanderen
+813,Zottegem,Vlaanderen
+814,Zwankendamme,Vlaanderen
+815,Zwijndrecht,Unknown region
+816,Zwijndrecht-Wijksporen,Unknown region

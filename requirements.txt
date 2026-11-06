@@ -1,0 +1,33 @@
+# Data processing and modeling
+numpy
+# Preserve the inplace column updates used by the existing notebooks.
+pandas>=2.2,<3
+scipy
+# Preserve RegressorChain(base_estimator=...).
+scikit-learn>=1.4,<1.7
+xgboost>=2.1.4
+torch
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# PostgreSQL and geospatial data
+SQLAlchemy>=2,<3
+psycopg2-binary
+GeoAlchemy2
+geopandas
+shapely
+
+# Data acquisition and enrichment
+requests
+# Preserve the Hourly and Point API used for province weather.
+meteostat>=1.6.8,<2
+geopy
+holidays
+tqdm
+
+# Notebook interface and kernel
+jupyterlab
+ipykernel

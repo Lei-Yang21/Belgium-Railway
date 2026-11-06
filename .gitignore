@@ -1,0 +1,29 @@
+# Raw monthly punctuality files (pipeline/download_punctuality_data.py) and their
+# compressed version (pipeline/compress_punctuality_data.py): tens of GB, not in git.
+/data/raw/
+/data/cleaned/
+
+# Legacy locations, kept so older working copies stay clean
+/dataset
+/compress_dataset
+/cleaned_dataset
+
+# Local conda / virtual environments
+.conda/
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+.ruff_cache/
+.pytest_cache/
+.mypy_cache/
+
+# Temporary files and working folders
+/tmp/
+/temp/
+*.tmp
+*.temp
